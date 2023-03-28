@@ -1,6 +1,12 @@
-### Hi there We are PIXELES 👋
+### EL GIGANTE ESMERALDA 👋
 - 🔭 We´re currently working on ... Explorando A Hulk.
 - 🌱 We´re currently learning HTML, CSS y Js.
+- INTEGRANTE:
+* Nestor Fabian Zapata
+* Gustavo Adolfo Cardona
+* Erika Alexandra Uribe
+* Claudia Dilbane Enrriquez
+
 - 📫 How to contact us:
 * relaxadito@gmail.com
 * cardona50368@gmail.com
